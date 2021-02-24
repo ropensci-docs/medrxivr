@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "38f4131e58af7b405bf8bdcd5865184de92d9b24",
+    "author": "Luke McGuinness <luke.mcguinness@bristol.ac.uk>",
+    "time": "2021-02-24 16:51:14",
+    "files": 3,
+    "merge": false,
+    "message": "Increment version number"
+  },
+  "remote": "https://github.com/ropensci/medrxivr",
+  "pkg": "medrxivr"
+}
