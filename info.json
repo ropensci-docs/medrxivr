@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "73ad971d3848a60399be778c7628646f6304ba4a",
+    "author": "Luke McGuinness <41202585+mcguinlu@users.noreply.github.com>",
+    "time": "2022-09-11 19:39:31",
+    "files": 10,
+    "merge": true,
+    "message": "Merge pull request #33 from ropensci/pkgdown-hotfix\n\nFix issues with pkgdown topics"
+  },
+  "repo": "https://github.com/ropensci/medrxivr",
+  "pkg": "medrxivr"
+}

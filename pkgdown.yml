@@ -1,0 +1,12 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  building-complex-search-strategies: building-complex-search-strategies.html
+  medrxiv-api: medrxiv-api.html
+  medrxivr: medrxivr.html
+last_built: 2024-02-29T05:54Z
+urls:
+  reference: https://docs.ropensci.org/medrxivr/reference
+  article: https://docs.ropensci.org/medrxivr/articles
+
