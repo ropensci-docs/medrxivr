@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ed2876262f79149bc4e55bb03039185b951bf3f9",
+    "author": "Yaoxiang Li <liyaoxiang@outlook.com>",
+    "time": "2024-10-21 19:27:13",
+    "files": 1,
+    "merge": false,
+    "message": "Update mx_search.R\n"
+  },
+  "repo": "https://github.com/ropensci/medrxivr",
+  "pkg": "medrxivr"
+}
