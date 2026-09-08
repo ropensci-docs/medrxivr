@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "743dc0db91338beeec6841bf49d75a13966bcb40",
+    "author": "Yaoxiang Li <liyaoxiang@outlook.com>",
+    "time": "2026-08-09T14:36:06Z",
+    "files": 2,
+    "merge": false,
+    "message": "Harden snapshot API retries\n"
+  },
+  "repo": "https://github.com/ropensci/medrxivr",
+  "pkg": "medrxivr",
+  "time": "2026-09-08T09:14:36Z"
+}
