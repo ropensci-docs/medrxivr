@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c1a393c93974bae8c33d90f766e3f22eaba60cab",
+    "author": "Yaoxiang Li <liyaoxiang@outlook.com>",
+    "time": "2026-11-21T07:37:33Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #51 from gayol-openrxiv/readme-edit\n\nREADME edit (bioRxiv affiliation)"
+  },
+  "repo": "https://github.com/ropensci/medrxivr",
+  "pkg": "medrxivr",
+  "time": "2026-11-21T09:24:38Z"
+}
